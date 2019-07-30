@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # Master-Detail GridView on different PageControl TabPages
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4659)**
+**[[Run Online]](https://codecentral.devexpress.com/e4659/)**
 <!-- run online end -->
 
 
